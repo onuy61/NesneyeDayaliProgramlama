@@ -1,0 +1,13 @@
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\bin\Debug\netcoreapp3.1\odev1_b201210500.exe
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\bin\Debug\netcoreapp3.1\odev1_b201210500.deps.json
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\bin\Debug\netcoreapp3.1\odev1_b201210500.runtimeconfig.json
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\bin\Debug\netcoreapp3.1\odev1_b201210500.runtimeconfig.dev.json
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\bin\Debug\netcoreapp3.1\odev1_b201210500.dll
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\bin\Debug\netcoreapp3.1\odev1_b201210500.pdb
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\obj\Debug\netcoreapp3.1\odev1_b201210500.csprojAssemblyReference.cache
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\obj\Debug\netcoreapp3.1\odev1_b201210500.AssemblyInfoInputs.cache
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\obj\Debug\netcoreapp3.1\odev1_b201210500.AssemblyInfo.cs
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\obj\Debug\netcoreapp3.1\odev1_b201210500.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\obj\Debug\netcoreapp3.1\odev1_b201210500.dll
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\obj\Debug\netcoreapp3.1\odev1_b201210500.pdb
+C:\Users\ONUR\source\repos\odev1_b201210500\odev1_b201210500\obj\Debug\netcoreapp3.1\odev1_b201210500.genruntimeconfig.cache
