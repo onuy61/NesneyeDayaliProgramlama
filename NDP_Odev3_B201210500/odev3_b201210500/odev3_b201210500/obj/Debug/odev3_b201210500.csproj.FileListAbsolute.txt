@@ -1,0 +1,50 @@
+C:\Users\ONUR\source\repos\odev3_b201210500\odev3_b201210500\bin\Debug\odev3_b201210500.exe.config
+C:\Users\ONUR\source\repos\odev3_b201210500\odev3_b201210500\bin\Debug\odev3_b201210500.exe
+C:\Users\ONUR\source\repos\odev3_b201210500\odev3_b201210500\bin\Debug\odev3_b201210500.pdb
+C:\Users\ONUR\source\repos\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.csprojAssemblyReference.cache
+C:\Users\ONUR\source\repos\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.Form1.resources
+C:\Users\ONUR\source\repos\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.Properties.Resources.resources
+C:\Users\ONUR\source\repos\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.csproj.GenerateResource.cache
+C:\Users\ONUR\source\repos\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\source\repos\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.exe
+C:\Users\ONUR\source\repos\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.pdb
+C:\Users\ONUR\source\repos\odev3_b201210500 - Kopya\odev3_b201210500\bin\Debug\odev3_b201210500.exe.config
+C:\Users\ONUR\source\repos\odev3_b201210500 - Kopya\odev3_b201210500\bin\Debug\odev3_b201210500.exe
+C:\Users\ONUR\source\repos\odev3_b201210500 - Kopya\odev3_b201210500\bin\Debug\odev3_b201210500.pdb
+C:\Users\ONUR\source\repos\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.csprojAssemblyReference.cache
+C:\Users\ONUR\source\repos\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.Form1.resources
+C:\Users\ONUR\source\repos\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.Properties.Resources.resources
+C:\Users\ONUR\source\repos\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.csproj.GenerateResource.cache
+C:\Users\ONUR\source\repos\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\source\repos\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.exe
+C:\Users\ONUR\source\repos\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.pdb
+C:\Users\mhgezgin\Desktop\odev3_b201210500 - Kopya\odev3_b201210500\bin\Debug\odev3_b201210500.exe.config
+C:\Users\mhgezgin\Desktop\odev3_b201210500 - Kopya\odev3_b201210500\bin\Debug\odev3_b201210500.exe
+C:\Users\mhgezgin\Desktop\odev3_b201210500 - Kopya\odev3_b201210500\bin\Debug\odev3_b201210500.pdb
+C:\Users\mhgezgin\Desktop\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.csprojAssemblyReference.cache
+C:\Users\mhgezgin\Desktop\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.Form1.resources
+C:\Users\mhgezgin\Desktop\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.Properties.Resources.resources
+C:\Users\mhgezgin\Desktop\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.csproj.GenerateResource.cache
+C:\Users\mhgezgin\Desktop\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.csproj.CoreCompileInputs.cache
+C:\Users\mhgezgin\Desktop\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.exe
+C:\Users\mhgezgin\Desktop\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.pdb
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\odev3_b201210500 - Kopya\odev3_b201210500\bin\Debug\odev3_b201210500.exe.config
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\odev3_b201210500 - Kopya\odev3_b201210500\bin\Debug\odev3_b201210500.exe
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\odev3_b201210500 - Kopya\odev3_b201210500\bin\Debug\odev3_b201210500.pdb
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.csprojAssemblyReference.cache
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.Form1.resources
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.Properties.Resources.resources
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.csproj.GenerateResource.cache
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.exe
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\odev3_b201210500 - Kopya\odev3_b201210500\obj\Debug\odev3_b201210500.pdb
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\NDP_Odev3_B201210500\odev3_b201210500\odev3_b201210500\bin\Debug\odev3_b201210500.exe.config
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\NDP_Odev3_B201210500\odev3_b201210500\odev3_b201210500\bin\Debug\odev3_b201210500.exe
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\NDP_Odev3_B201210500\odev3_b201210500\odev3_b201210500\bin\Debug\odev3_b201210500.pdb
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\NDP_Odev3_B201210500\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.csprojAssemblyReference.cache
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\NDP_Odev3_B201210500\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.Form1.resources
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\NDP_Odev3_B201210500\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.Properties.Resources.resources
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\NDP_Odev3_B201210500\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.csproj.GenerateResource.cache
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\NDP_Odev3_B201210500\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.csproj.CoreCompileInputs.cache
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\NDP_Odev3_B201210500\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.exe
+C:\Users\ONUR\Desktop\Ndp_Ornek_Projeler\NDP_Odev3_B201210500\odev3_b201210500\odev3_b201210500\obj\Debug\odev3_b201210500.pdb
